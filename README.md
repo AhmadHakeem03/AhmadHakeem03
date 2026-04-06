@@ -19,7 +19,7 @@ class DataScientist:
     def __init__(self):
         self.name        = "Ahmad Saleh"
         self.role        = "Data Scientist & ML Engineer"
-        self.location    = "Jordan 🇯🇴"
+        self.location    = "Jordan, Amman"
         self.languages   = ["Python", "C++", "Java"]
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
         self.backend     = ["FastAPI", "REST APIs", "LLM Integration"]
