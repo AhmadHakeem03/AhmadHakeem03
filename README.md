@@ -83,7 +83,7 @@ print(me.current_goal())
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-💡 I turn raw, messy data into clear, actionable insights that drive smarter decisions — one model at a time. 🚀
+💡 "Driven by curiosity, powered by code." 🚀
 
 </div>
 
