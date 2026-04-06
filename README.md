@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmad%20Saleh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmad%20Saleh&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%20&descAlignY=58&descAlign=50" width="100%"/>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=55&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Deep+Learning+Practitioner+%F0%9F%A7%A0;FastAPI++%E2%9A%A1;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 <br/>
