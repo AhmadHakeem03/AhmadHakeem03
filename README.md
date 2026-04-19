@@ -23,8 +23,8 @@ class DataScientist:
         self.languages   = ["Python", "C++", "Java"]
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
         self.backend     = ["FastAPI", "REST APIs", "LLM Integration"]
-        self.tools       = ["Scikit-Learn", "TensorFlow", "PyTorch",
-                            "Matplotlib", "Seaborn", "Pandas", "NumPy"]
+        self.tools = ["Scikit-Learn", "TensorFlow", "PyTorch",
+              "Matplotlib", "Seaborn", "Pandas", "NumPy"]
 
     def current_goal(self):
         return "Building intelligent systems that solve real-world problems 🚀"
@@ -52,6 +52,7 @@ print(me.current_goal())
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-003366?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 </p>
 
 ### 📊 Data Science & Visualization
