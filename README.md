@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f2e,58a6ff&height=220&section=header&text=Ahmad%20Saleh&fontSize=72&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Deep%20Learning%20Practitioner&descAlignY=58&descAlign=50&descSize=16&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+intelligent+systems;Turning+raw+data+into+real+decisions;Deep+Learning+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Integration;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Building+intelligent+systems;Turning+raw+data+into+real+decisions;Deep+Learning+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Integration" alt="Typing SVG" />
 
 <br/>
 
